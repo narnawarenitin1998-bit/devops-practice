@@ -1,0 +1,7 @@
+pwd   -> present working directory
+ls    -> list files
+cd    -> change directory
+mkdir -> create folder
+touch -> create files
+cat   -> read file 
+rmdir -> remove directory
